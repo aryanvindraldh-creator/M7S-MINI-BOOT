@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.15.4
+python-dotenv==1.0.1
+psutil==5.9.8
+Flask==3.0.2
+requests==2.31.0
